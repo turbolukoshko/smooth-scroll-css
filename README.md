@@ -2,7 +2,7 @@
 
 Scroll-snap-align is a CSS property that is used in conjunction with CSS Scroll Snap module to control the alignment of elements within a scroll container when scrolling stops.
 
-![GIF](https://giphy.com/gifs/MM4czzviKDtbd6T9dG)
+![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFtM2lpOGk2MDV1YTV1enk0Nmcwdm5ra3NmY2Rnbm5oYjk4MjZudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MM4czzviKDtbd6T9dG/giphy.gif)
 
 ### Setup
 
