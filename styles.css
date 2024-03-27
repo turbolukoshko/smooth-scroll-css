@@ -1,0 +1,40 @@
+html,
+body {
+  overflow: hidden;
+  margin: 0;
+}
+
+.sections {
+  height: 100vh;
+  overflow-y: scroll;
+  scroll-snap-type: y mandatory;
+}
+
+.section {
+  scroll-snap-align: start;
+  height: 100vh;
+  background: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section:last-child {
+  margin: 0;
+}
+
+.yellow {
+  background: #faedcb;
+}
+
+.green {
+  background: #c9e4de;
+}
+
+.blue {
+  background: #c6def1;
+}
+
+.purple {
+  background: #faedcb;
+}
